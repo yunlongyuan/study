@@ -11,6 +11,7 @@
     <modules>
         <module>activeMQ</module>
         <module>jvm</module>
+        <module>nio</module>
     </modules>
 
 
