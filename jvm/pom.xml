@@ -12,11 +12,11 @@
     <artifactId>jvm</artifactId>
 
     <dependencies>
-        <dependency>
+        <!--<dependency>
             <groupId>com.oracle</groupId>
             <artifactId>ojdbc6</artifactId>
             <scope>runtime</scope>
-        </dependency>
+        </dependency>-->
     </dependencies>
 
 </project>
